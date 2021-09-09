@@ -1,0 +1,3 @@
+echo sagarreddy
+pwd
+ls -l
